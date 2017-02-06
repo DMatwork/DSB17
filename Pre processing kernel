@@ -1,4 +1,4 @@
-# Pre processing kernal
+# Pre processing kernel
     
     def get_pixels_hu(slices):
     image = np.stack([s.pixel_array for s in slices])
